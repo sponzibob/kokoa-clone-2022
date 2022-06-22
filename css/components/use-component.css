@@ -1,6 +1,7 @@
 .user-component{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 15px;
 }
 
 .user-component,
@@ -54,4 +55,8 @@
 .user-component__time {
     margin-bottom: 5px;
     display: block;
+}
+
+.fa-circle-exclamation {
+    color: tomato;
 }
